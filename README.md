@@ -1,46 +1,36 @@
-# Getting Started with Create React App
+# **_`Todo List Maker`_**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### **_`Todo List Maker`_** is a practice project for TypeScript.
 
-## Available Scripts
+# **Built Using**
 
-In the project directory, you can run:
+- ### **React**
 
-### `npm start`
+- ### **TypeScript**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- ### **HTML**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- ### **CSS**
 
-### `npm test`
+- ### **JavaScript**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- ### **Bootstrap**
 
-### `npm run build`
+- ### **Visual Studio Code**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# **Project Features**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Todo List
+- Mark As Completed
+- Mark As Incomplete
+- Delete Tasks
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# **About Me**
 
-### `npm run eject`
+- ### **_Name :_** Ritik Singh
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- ### **_Education :_** Diploma ( _Computer Science Engineering_ )
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- ### **_Field Of Intrest :_** Web Development
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- ### **_Skills :_** Python, JavaScript, Django, React, CSS, HTML, Bootstrap, Wordpress, Shopify, Magento.
