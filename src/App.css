@@ -1,0 +1,51 @@
+#inputFieldArea {
+  margin: 20px 0px;
+  text-align: center;
+}
+#input-field {
+  border-color: transparent;
+  margin: 3px;
+  font-size: 16px;
+  min-width: 80%;
+}
+#input-field:focus,
+input:focus {
+  outline: none;
+  margin: 3px;
+  font-size: 16px;
+}
+#addButton {
+  border-color: transparent;
+  margin: 3px;
+  font-size: 16px;
+  border-radius: 100px;
+  background-color: burlywood;
+}
+
+#addButton:hover {
+  border-color: transparent;
+  margin: 3px;
+  border-radius: 100px;
+  box-shadow: 0px 0px 4px #000;
+  background-color: rgb(202, 152, 24);
+}
+
+#inputForm {
+  padding: 4px 0px;
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px #000;
+}
+
+#inputForm:hover {
+  padding: 4px 0px;
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 1000px rgb(0, 0, 0, 0.3);
+}
